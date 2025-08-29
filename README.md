@@ -42,19 +42,19 @@ The app is powered by **Logistic Regression** and **TF-IDF (Term Frequency–Inv
 
 ## 📂 Project Structure  
 
-├── app.py # Main app script
-├── depression_detection.ipynb # Notebook with model training
-├── model.pickle # Trained ML model
-├── tfidf.pickle # TF-IDF vectorizer
-├── requirements.txt # Dependencies
-├── Procfile # Deployment config
-├── runtime.txt # Python runtime version
-├── setup.sh # Setup script for deployment
-├── model_comparison_chart.png # Model performance visualization
-
+```bash
+├── app.py                       # Main app script  
+├── depression_detection.ipynb   # Notebook with model training  
+├── model.pickle                 # Trained ML model  
+├── tfidf.pickle                 # TF-IDF vectorizer  
+├── requirements.txt             # Dependencies  
+├── Procfile                     # Deployment config  
+├── runtime.txt                  # Python runtime version  
+├── setup.sh                     # Setup script for deployment  
+├── model_comparison_chart.png   # Model performance visualization 
 
 ---
-
+```
 ## 🚀 Getting Started  
 
 ### 1. Clone the repository  
