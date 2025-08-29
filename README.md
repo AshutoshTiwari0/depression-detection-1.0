@@ -88,3 +88,7 @@ For deployment on platforms like Heroku, use the provided Procfile and setup.sh.
 ⚠️ Disclaimer
 
 This project is for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
+
+## 🙏 Acknowledgement  
+
+I would like to thank Abhishek for helping me in deploying the application. Check out his profile here [Kenshi2727](https://github.com/Kenshi2727).
